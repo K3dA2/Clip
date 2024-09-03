@@ -1,2 +1,2 @@
-# Waifu-Clip
+# Clip
  Implementation of OpenAi Clip
